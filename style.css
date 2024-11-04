@@ -6,7 +6,7 @@
 }
 
 #txt_country{
-  width: 100px;
+  width: 300px;
 }
 
 .container{
@@ -18,5 +18,9 @@
 }
 body{
 background-color: aquamarine;
+background-image: url(img/map-world-with-words-world-white_981650-46355.avif);
+
+background-size: 100%;
+
 
 }
