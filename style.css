@@ -1,0 +1,22 @@
+#btn_search{
+
+  background-color: blue;
+  border-radius: 5px;
+  width: 45px;
+}
+
+#txt_country{
+  width: 100px;
+}
+
+.container{
+
+
+  max-width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+body{
+background-color: aquamarine;
+
+}
